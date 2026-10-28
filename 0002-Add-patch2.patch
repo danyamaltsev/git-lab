@@ -1,0 +1,20 @@
+From bd35f5030a3614b12bdcf410ad3e579bb89c0080 Mon Sep 17 00:00:00 2001
+From: Danya Maltsev <danilmaltzew@gmail.com>
+Date: Wed, 28 Oct 2026 16:43:59 +0300
+Subject: [PATCH 2/2] Add patch2
+
+---
+ patch2.py | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 patch2.py
+
+diff --git a/patch2.py b/patch2.py
+new file mode 100644
+index 0000000..5425794
+--- /dev/null
++++ b/patch2.py
+@@ -0,0 +1 @@
++print("Patch 2 content")
+-- 
+2.56.0.windows.3
+
