@@ -1,0 +1,3 @@
+[submodule "lib/git-lib"]
+	path = lib/git-lib
+	url = https://github.com/git/git.git
